@@ -25,5 +25,3 @@ export const deliveryOptions=[
         priceCents:999
     }
 ]
-
-
